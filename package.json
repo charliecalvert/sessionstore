@@ -1,7 +1,7 @@
 {
-  "author": "adrai",
-  "name": "sessionstore",
-  "version": "1.2.16",
+  "author": "adrai and Charlie Calvert from Elvenware",
+  "name": "elf-sessionstore",
+  "version": "0.0.2",
   "private": false,
   "main": "index.js",
   "engines": {
@@ -30,8 +30,9 @@
     "redis": ">= 0.10.1",
     "tingodb": ">= 0.0.1"
   },
-  "description": "Sessionstore is a node.js module for multiple databases. It can be very useful if you work with express or connect.",
+  "description": "This is charlie's fork of the sessionstore repository. For use with express session object.",
   "keywords": [
+    "elvenware",
     "express",
     "session",
     "connect",
@@ -44,7 +45,7 @@
     "database",
     "host"
   ],
-  "homepage": "https://github.com/adrai/sessionstore",
+  "homepage": "https://github.com/charliecalvert/sessionstore",
   "repository": {
     "type": "git",
     "url": "git@github.com:adrai/sessionstore.git"

@@ -2,11 +2,11 @@
 
 [![travis](https://img.shields.io/travis/adrai/sessionstore.svg)](https://travis-ci.org/adrai/sessionstore) [![npm](https://img.shields.io/npm/v/sessionstore.svg)](https://npmjs.org/package/sessionstore)
 
-Sessionstore is a node.js module for multiple databases. It can be very useful if you work with express or connect.
+elf-Sessionstore is a node.js module for multiple databases. It can be very useful if you work with express or connect. This is Charlie Calvert's fork of the original project. My copy is forked in the github folder called **charliecalvert**.
 
 # Installation
 
-    $ npm install sessionstore
+    $ npm install elf-sessionstore
 
 # Usage
 
@@ -168,6 +168,8 @@ Currently these databases are supported:
 
 
 # License
+
+This is Charlie Calvert's fork of the project. Below is the original copyright:
 
 Copyright (c) 2015 Adriano Raiano
 
